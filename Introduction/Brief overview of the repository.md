@@ -31,4 +31,4 @@ If you're new to the repository, start by exploring the foundational concepts in
 
 We encourage contributions from the community to make this repository a richer and more diverse resource. Check the "Contributions and Collaboration" section for guidelines on how to contribute.
 
-Thank you for being a part of [Your Repository Name]! We hope this repository becomes a valuable companion on your journey through the exciting and ever-evolving world of machine learning and data science.
+Thank you for being a part of MindsForge: Unveiling the World of ML, Deep Learning, and Data We hope this repository becomes a valuable companion on your journey through the exciting and ever-evolving world of machine learning and data science.
