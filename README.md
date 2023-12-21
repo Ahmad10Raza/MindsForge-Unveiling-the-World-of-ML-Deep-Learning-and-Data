@@ -2,6 +2,8 @@
 
 Welcome to MindsForge, a comprehensive repository that delves into the fascinating world of machine learning (ML), deep learning (DL), and data science. Whether you're a novice looking to understand the fundamentals or an experienced practitioner seeking advanced insights, this repository is designed to be your go-to resource.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Ahmad10Raza/MindsForge-Unveiling-the-World-of-ML-Deep-Learning-and-Data)		![GitHub last commit](https://img.shields.io/github/last-commit/Ahmad10Raza/MindsForge-Unveiling-the-World-of-ML-Deep-Learning-and-Data)		![GitHub](https://img.shields.io/github/license/Ahmad10Raza/DSA-Practices)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
